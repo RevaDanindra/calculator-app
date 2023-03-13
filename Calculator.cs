@@ -11,13 +11,11 @@ class Calculator
 		Console.WriteLine("\nTekan sembarang key untuk keluar");
 		Console.ReadKey()
 	}
-	
 	static int Penambahan(int a, int b)
 	{
 		return a + b;
 	}
-	
-	static int Pengurangan(int a. int b)
+	static int Pengurangan(int a, int b)
 	{
 		return a - b;
 	}
